@@ -1,0 +1,6 @@
+.editorconfig
+.gitattributes
+composer.lock
+private
+vendor
+web
