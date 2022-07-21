@@ -16,6 +16,10 @@
         "ebremner17/arrowtrade": {
             "type": "vcs",
             "url": "https://github.com/ebremner17/arrowtrade.git"
+        },
+        "ebremner17/at_site": {
+            "type": "vcs",
+            "url": "https://github.com/ebremner17/at_site.git"
         }
     },
     "require": {
@@ -26,7 +30,8 @@
         "drupal/core-recommended": "^9.4",
         "drupal/layout_builder_browser": "^1.4",
         "drupal/pathauto": "^1.10",
-        "ebremner17/arrowtrade": "1.0.x-dev"
+        "ebremner17/arrowtrade": "1.0.x-dev",
+        "ebremner17/at_site": "1.0.x-dev"
     },
     "conflict": {
         "drupal/drupal": "*"
