@@ -70,7 +70,7 @@
             "web/profiles/custom/{$name}": [
                 "type:drupal-custom-profile"
             ],
-            "web/themes/custom/{$name}": [
+            "web/themes/{$name}": [
                 "type:drupal-custom-theme"
             ]
         },
