@@ -25,6 +25,7 @@
         "drupal/core-project-message": "^9.4",
         "drupal/core-recommended": "^9.4",
         "drupal/layout_builder_browser": "^1.4",
+        "drupal/pathauto": "^1.10",
         "ebremner17/arrowtrade": "1.0.x-dev"
     },
     "conflict": {
